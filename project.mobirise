@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-05-10_1138",
-    "currentPage": "index.html",
+    "currentPage": "index2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -12,7 +12,7 @@
     "versionPublish": "3.12.1"
   },
   "pages": {
-    "index.html": {
+    "index2.html": {
       "settings": {
         "main": true,
         "title": "",
