@@ -1323,7 +1323,7 @@
               "color": "#ffffff"
             },
             ".mbr-brand__name a": {
-              "font-size": "32px"
+              "font-size": "36px"
             }
           },
           "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CAPABILITIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">PRODUCTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">INDUSTRIES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
