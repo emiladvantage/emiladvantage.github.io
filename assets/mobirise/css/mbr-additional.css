@@ -1,41 +1,55 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 #menu-z .mbr-brand__name {
   font-size: 16px;
 }
 #menu-z.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+  background: #162328;
+}
+#menu-z .mbr-navbar__section {
+  background: #162328;
 }
 #menu-z .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #27aae0;
 }
 #menu-z .mbr-brand__name a {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
 }
 #menu-z .mbr-navbar__items a {
-  font-size: 14px;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
 }
 #form1-10 .mbr-header__text {
   color: #ffffff;
 }
 
+
 #menu-12 .mbr-brand__name {
   font-size: 16px;
 }
 #menu-12.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+  background: #2c82c9;
+}
+#menu-12 .mbr-navbar__section {
+  background: #2c82c9;
 }
 #menu-12 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #27aae0;
 }
 #menu-12 .mbr-brand__name a {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
 }
 #menu-12 .mbr-navbar__items a {
-  font-size: 14px;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
 }
+
 
 
 
@@ -71,58 +85,93 @@
   font-size: 16px;
 }
 #menu-1e.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+  background: #2c82c9;
+}
+#menu-1e .mbr-navbar__section {
+  background: #2c82c9;
 }
 #menu-1e .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #27aae0;
 }
 #menu-1e .mbr-brand__name a {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
 }
 #menu-1e .mbr-navbar__items a {
-  font-size: 14px;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
 }
+
 
 #menu-1v .mbr-brand__name {
   font-size: 16px;
 }
 #menu-1v.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+  background: #2c82c9;
+}
+#menu-1v .mbr-navbar__section {
+  background: #2c82c9;
 }
 #menu-1v .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #27aae0;
 }
 #menu-1v .mbr-brand__name a {
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
 }
 #menu-1v .mbr-navbar__items a {
-  font-size: 14px;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
 }
-
-#menu-x .mbr-brand__name {
+#msg-box1-2u .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-2u .mbr-article {
+  color: #fff;
+}
+#ext_menu-2p .mbr-brand__name {
   font-size: 16px;
 }
-#menu-x.mbr-navbar--stuck .mbr-navbar__section {
-  background: #27aae0;
+#ext_menu-2p.mbr-navbar--stuck .mbr-navbar__section {
+  background: #ffffff;
 }
-#menu-x .mbr-navbar__hamburger {
-  color: #27aae0;
+#ext_menu-2p .mbr-navbar__section {
+  background: #ffffff;
 }
-#menu-x .mbr-brand__name a {
-  font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+#ext_menu-2p .mbr-navbar__hamburger {
+  color: #ffffff;
 }
-#menu-x .mbr-navbar__items a {
-  font-size: 14px;
+#ext_menu-2p .mbr-brand__name a {
+  font-size: 32px;
 }
 
+
+
+
+#header4-2k H1 {
+  font-size: 60px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header4-2k P {
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-2o H3 {
+  color: #2c82c9;
+  text-align: center;
+  font-size: undefinedpx;
+}
+#testimonials1-21 .mbr-section__header {
+  color: #2c82c9;
+}
 #menu-1w .mbr-brand__name {
   font-size: 16px;
 }
 #menu-1w.mbr-navbar--stuck .mbr-navbar__section {
-  background: #f97352;
+  background: #494444;
+}
+#menu-1w .mbr-navbar__section {
+  background: #494444;
 }
 #menu-1w .mbr-navbar__hamburger {
   color: #ffffff;
@@ -132,14 +181,28 @@
   font-family: 'Roboto', sans-serif;
 }
 #menu-1w .mbr-navbar__items a {
-  font-size: 14px;
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
 }
-#msg-box5-20 .mbr-header__text {
+
+
+#menu-2i .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-2i.mbr-navbar--stuck .mbr-navbar__section {
+  background: #494444;
+}
+#menu-2i .mbr-navbar__section {
+  background: #494444;
+}
+#menu-2i .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#msg-box5-20 .mbr-header__subtext {
-  color: #ffffff;
+#menu-2i .mbr-brand__name a {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
 }
-#msg-box5-20 .mbr-article {
-  color: #ffffff;
+#menu-2i .mbr-navbar__items a {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
 }
