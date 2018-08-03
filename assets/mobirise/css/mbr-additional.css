@@ -128,6 +128,9 @@
 #header4-2q H1 {
   font-family: 'Open Sans', sans-serif;
 }
+#features1-2r .mbr-section__col .mbr-header__text {
+  color: #0e4e96;
+}
 #msg-box1-2u .mbr-header .mbr-header__text {
   color: #fff;
 }
