@@ -7,13 +7,13 @@
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
+        "#0e4e96",
         "#5c6874",
         "#162328",
         "#3d3d3d",
         "#494444",
         "#84100e",
-        "#1b1b1b",
-        "#1a1a1a"
+        "#1b1b1b"
       ]
     },
     "versionFirst": "3.12.1",
@@ -948,7 +948,7 @@
           },
           "title": "Your Source For All Your Engineering Needs.",
           "text": "Why JF Industries Meets All Your Distrbution Needs.",
-          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WHAT WE DO&nbsp;</a> ",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WHAT WE DO&nbsp;</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1007,9 +1007,9 @@
               "name": "change-style",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "125",
+              "size": "100",
               "active": true,
-              "color": "#27aae0"
+              "color": "#0e4e96"
             }
           },
           "title1": "BOOTSTRAP 3",
@@ -1031,9 +1031,9 @@
               "name": "setting",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "125",
+              "size": "100",
               "active": true,
-              "color": "#27aae0"
+              "color": "#0e4e96"
             }
           },
           "title2": "RESPONSIVE",
@@ -1055,9 +1055,9 @@
               "name": "setting3",
               "family": "mobirise-icons-bold",
               "link": "",
-              "size": "125",
+              "size": "100",
               "active": true,
-              "color": "#27aae0"
+              "color": "#0e4e96"
             }
           },
           "title3": "WEB FONTS",
@@ -1079,9 +1079,9 @@
               "name": "target",
               "family": "MobiriseIcons",
               "link": "",
-              "size": "125",
+              "size": "100",
               "active": true,
-              "color": "#27aae0"
+              "color": "#0e4e96"
             }
           },
           "title4": "UNLIMITED WEBSITES",
@@ -1152,7 +1152,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#27aae0",
+            "bgColor": "#0e4e96",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1163,7 +1163,7 @@
           },
           "title": "MADE TO ORDER",
           "text": "BLAH BLAH &nbsp; &nbsp; &nbsp;.",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ORDER PARTS</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ORDER PARTS</a>",
           "_tags": [
             "Theme"
           ],
@@ -1276,7 +1276,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vincisample-1-213x128.png",
+              "src": "@PROJECT_PATH@/assets/images/img-565-221x103.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
@@ -1308,10 +1308,10 @@
             "sticky": true,
             "collapsed": false,
             "transparent": false,
-            "color": "#efefef",
+            "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-success\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET A QUOTE<br></a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET A QUOTE<br></a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1320,10 +1320,10 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
@@ -1337,11 +1337,11 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CAPABILITIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">PRODUCTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">INDUSTRIES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CAPABILITIES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">PRODUCTS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">INDUSTRIES</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">CONTACT</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/jeremy-1-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/img-564-221x103.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
@@ -1359,7 +1359,7 @@
               "newWindow": false
             }
           },
-          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jeremy Fleeder</a>",
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2p"
         }
@@ -1743,7 +1743,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vincisample-1-213x128.png",
+              "src": "@PROJECT_PATH@/assets/images/img-565-221x103.jpg",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
               "active": true,
