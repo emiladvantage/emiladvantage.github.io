@@ -33,6 +33,10 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 10,
     "versionPublish": "4.8.6"
   },
