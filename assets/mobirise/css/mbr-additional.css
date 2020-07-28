@@ -2176,18 +2176,6 @@ body {
     margin-right: 1rem;
   }
 }
-.cid-s4Uyzv7aQf {
-  background: #ffffff;
-}
-.cid-s4Uyzv7aQf .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-s4Uyzv7aQf .video-block {
-    width: 100% !important;
-  }
-}
 .cid-s1HqXIswsO .dropdown-item:before {
   font-family: MobiriseIcons !important;
   content: '\e966';
