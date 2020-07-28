@@ -2110,7 +2110,11 @@
               }
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#149dcc"
+            },
+            ".card-title": {
+              "color": "#149dcc"
             }
           },
           "_name": "services1",
